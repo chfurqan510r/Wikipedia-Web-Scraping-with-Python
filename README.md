@@ -1,5 +1,7 @@
 # Wikipedia Web Scraping with Python
 
+A Python web scraping project that extracts company data from Wikipedia using **Requests**, **BeautifulSoup**, and **Pandas**, then exports the data to a CSV file.
+
 ## 📌 Project Overview
 
 This project demonstrates how to scrape company data from Wikipedia using Python. The scraped table is converted into a Pandas DataFrame and exported as a CSV file.
